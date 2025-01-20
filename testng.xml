@@ -2,7 +2,6 @@
     <test name="MyFirstTest">
         <classes>
             <class name = "com.loonycorn.learningselenium.LocatorTest"/>
-            <class name = "com.loonycorn.learningselenium.ProductLinks"/>
         </classes>
     </test>
 </suite>
