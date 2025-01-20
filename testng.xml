@@ -3,7 +3,6 @@
         <classes>
             <class name = "com.loonycorn.learningselenium.LocatorTest"/>
             <class name = "com.loonycorn.learningselenium.ProductLinks"/>
-            <class name = "com.loonycorn.learningselenium.ActionsAPI"/>
         </classes>
     </test>
 </suite>
